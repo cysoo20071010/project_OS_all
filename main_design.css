@@ -57,8 +57,7 @@
     content: '';
     position: absolute;
     top: -50%;
-    left: 134%;
-    transform: translateX(-50%);
+    transform: translateX(-29.5%);
     width: 400%;
     height: 400%;
     background-image: url('title_background.png');
